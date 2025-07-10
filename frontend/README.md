@@ -57,3 +57,7 @@ This project uses Tailwind CSS with the following enhancements:
 
 Install recommended extensions:
 - Tailwind CSS IntelliSense
+
+
+-- Note ***
+This is for training only.
